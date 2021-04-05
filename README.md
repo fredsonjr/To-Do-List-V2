@@ -1,3 +1,3 @@
 # To-Do-List-V2
 
-Lista de Afazeres (Node.js, MongoDB).
+Lista de Afazeres (JavaScript, Node.js, MongoDB).
